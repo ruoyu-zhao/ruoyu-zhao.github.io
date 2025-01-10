@@ -1,0 +1,5 @@
+/* styles.css */
+li {
+    text-align: justify;
+    line-height: 1.6; /* 提高可读性 */
+}
