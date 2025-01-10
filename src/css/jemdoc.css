@@ -135,6 +135,11 @@ strong {
 }
 
 
+li {
+        text-align: justify;
+        line-height: 1.6; /* 设置行高，提高可读性 */
+ }
+
 h1, h2, h3 {
 	color: #527bbd;
 	margin-top: 0.7em;
